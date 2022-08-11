@@ -14,7 +14,6 @@ The code can reproduce the results of (Takeno et. al., ICML2022).
     * nlopt=2.6.1
 * Fortran (gfortran)
 * C (gcc 8.3.1)
-* Our current code is purely for the empirical evaluation of our paper. We are planning to add comments and organize the code when we distribute the code as a python package.
 
 # Instruction
 
