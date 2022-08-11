@@ -57,3 +57,6 @@ The code can reproduce the results of (Takeno et. al., ICML2022).
         * python cons_bayesopt_exp.py method_name const_SynFun_plus_corr function_seed initial_seed 1
     * For the plots of the experimental results:
         * python plot_results_synthetic_correlated.py
+
+# Reference
+S. Takeno, T. Tamura, K. Shitara, and M. Karasuyama, Sequential- and Parallel- Constrained Max-value Entropy Search via Information Lower Bound, Proceedings of The 39th International Conference on Machine Learning (ICML 2022), volume 162, pages 20960-20986, PMLR, 2022. 
